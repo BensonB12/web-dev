@@ -1,0 +1,10 @@
+input{
+    background-color: orange;
+}
+form{
+    background-color: blue;
+}
+label {
+    background-color: brown;
+    border: solid gray 3px;
+}
